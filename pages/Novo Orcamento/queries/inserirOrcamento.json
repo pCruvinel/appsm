@@ -1,4 +1,4 @@
-{
+﻿{
   "pluginType": "DB",
   "pluginId": "postgres-plugin",
   "unpublishedAction": {
@@ -72,4 +72,4 @@
   "id": "Novo Orcamento_inserirOrcamento",
   "deleted": false,
   "gitSyncId": "orcamentos-cirurgicos-inserir-orcamento"
-} 
+}

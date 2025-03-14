@@ -1,4 +1,4 @@
-{
+﻿{
   "animateLoading": true,
   "borderRadius": "0px",
   "bottomRow": 11,
@@ -32,7 +32,7 @@
   "parentId": "qlz8gpal41",
   "renderMode": "CANVAS",
   "rightColumn": 36,
-  "text": "{{JSObject1.numFormatter_1()}} ₹",
+  "text": "{{JSObject1.numFormatter_1()}} â‚¹",
   "textAlign": "LEFT",
   "textColor": "#27272a",
   "topRow": 5,

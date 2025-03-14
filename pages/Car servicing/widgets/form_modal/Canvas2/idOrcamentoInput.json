@@ -1,4 +1,4 @@
-{
+﻿{
   "animateLoading": true,
   "borderRadius": "4px",
   "boxShadow": "none",
@@ -13,13 +13,13 @@
   "isVisible": true,
   "labelPosition": "Left",
   "labelStyle": "",
-  "labelText": "ID do Orçamento",
+  "labelText": "ID do OrÃ§amento",
   "labelTextSize": "0.875rem",
   "labelWidth": "8",
   "leftColumn": 0,
   "parentId": "form_canvas",
   "parentRowSpace": 10,
-  "placeholderText": "Digite o ID do orçamento",
+  "placeholderText": "Digite o ID do orÃ§amento",
   "renderMode": "CANVAS",
   "rightColumn": 64,
   "topRow": 0,
@@ -27,4 +27,4 @@
   "version": 1,
   "widgetId": "id_orcamento_input",
   "widgetName": "idOrcamentoInput"
-} 
+}

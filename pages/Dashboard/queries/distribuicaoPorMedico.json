@@ -1,4 +1,4 @@
-{
+﻿{
   "pluginType": "DB",
   "pluginId": "postgres-plugin",
   "unpublishedAction": {
@@ -39,4 +39,4 @@
   "id": "Dashboard_distribuicaoPorMedico",
   "deleted": false,
   "gitSyncId": "orcamentos-cirurgicos-distribuicao-medico"
-} 
+}

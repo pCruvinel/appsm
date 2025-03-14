@@ -1,21 +1,21 @@
-{
+﻿{
   "animateLoading": true,
   "borderRadius": "0px",
   "boxShadow": "none",
   "chartData": {
-    "xAxisName": "Médico",
+    "xAxisName": "MÃ©dico",
     "yAxisName": "Total",
-    "chartName": "Distribuição por Médico",
+    "chartName": "DistribuiÃ§Ã£o por MÃ©dico",
     "data": "{{distribuicaoPorMedico.data.map((item) => ({ x: item.medico, y: item.total }))}}"
   },
-  "chartName": "Distribuição por Médico",
+  "chartName": "DistribuiÃ§Ã£o por MÃ©dico",
   "chartType": "COLUMN_CHART",
   "customFusionChartConfig": {
     "type": "column2d",
     "dataSource": {
       "chart": {
-        "caption": "Distribuição por Médico",
-        "xAxisName": "Médico",
+        "caption": "DistribuiÃ§Ã£o por MÃ©dico",
+        "xAxisName": "MÃ©dico",
         "yAxisName": "Total",
         "theme": "fusion"
       }
@@ -41,4 +41,4 @@
   "version": 1,
   "widgetId": "grafico_medico",
   "widgetName": "graficoMedico"
-} 
+}

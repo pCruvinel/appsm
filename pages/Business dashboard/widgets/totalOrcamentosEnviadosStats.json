@@ -1,4 +1,4 @@
-{
+﻿{
   "animateLoading": true,
   "backgroundColor": "#FFFFFF",
   "borderColor": "#E0DEDE",
@@ -23,11 +23,11 @@
   "rightColumn": 16,
   "textAlign": "LEFT",
   "textColor": "#231F20",
-  "title": "Orçamentos Enviados",
+  "title": "OrÃ§amentos Enviados",
   "topRow": 16,
   "type": "STATBOX_WIDGET",
   "value": "{{totalOrcamentosEnviados.data[0].total_enviados}}",
   "version": 1,
   "widgetId": "total_enviados_stats",
   "widgetName": "totalOrcamentosEnviadosStats"
-} 
+}

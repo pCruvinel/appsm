@@ -1,4 +1,4 @@
-{
+﻿{
   "accentColor": "{{appsmith.theme.colors.primaryColor}}",
   "allowScroll": false,
   "animateLoading": true,

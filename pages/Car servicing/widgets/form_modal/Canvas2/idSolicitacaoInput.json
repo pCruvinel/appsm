@@ -1,4 +1,4 @@
-{
+﻿{
   "animateLoading": true,
   "borderRadius": "4px",
   "boxShadow": "none",
@@ -13,13 +13,13 @@
   "isVisible": true,
   "labelPosition": "Left",
   "labelStyle": "",
-  "labelText": "ID da Solicitação",
+  "labelText": "ID da SolicitaÃ§Ã£o",
   "labelTextSize": "0.875rem",
   "labelWidth": "8",
   "leftColumn": 0,
   "parentId": "form_canvas",
   "parentRowSpace": 10,
-  "placeholderText": "Digite o ID da solicitação",
+  "placeholderText": "Digite o ID da solicitaÃ§Ã£o",
   "renderMode": "CANVAS",
   "rightColumn": 64,
   "topRow": 5,
@@ -27,4 +27,4 @@
   "version": 1,
   "widgetId": "id_solicitacao_input",
   "widgetName": "idSolicitacaoInput"
-} 
+}

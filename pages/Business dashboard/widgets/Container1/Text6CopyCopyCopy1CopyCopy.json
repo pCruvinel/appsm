@@ -1,4 +1,4 @@
-{
+﻿{
   "animateLoading": true,
   "borderRadius": "0px",
   "bottomRow": 13,
@@ -23,7 +23,7 @@
   "parentId": "y87tl6h5yw",
   "renderMode": "CANVAS",
   "rightColumn": 40,
-  "text": "Expected revenue (₹)\n",
+  "text": "Expected revenue (â‚¹)\n",
   "textAlign": "CENTER",
   "textColor": "#231F20",
   "topRow": 9,

@@ -1,4 +1,4 @@
-{
+﻿{
   "animateLoading": true,
   "backgroundColor": "#FFFFFF",
   "borderColor": "#E0DEDE",
@@ -18,7 +18,7 @@
   "parentRowSpace": 10,
   "renderMode": "CANVAS",
   "rightColumn": 29,
-  "text": "Dashboard - Orçamentos Cirúrgicos",
+  "text": "Dashboard - OrÃ§amentos CirÃºrgicos",
   "textAlign": "LEFT",
   "textColor": "#231F20",
   "topRow": 7,
@@ -27,4 +27,4 @@
   "version": 1,
   "widgetId": "title_widget",
   "widgetName": "Title"
-} 
+}

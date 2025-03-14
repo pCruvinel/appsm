@@ -1,4 +1,4 @@
-{
+﻿{
   "animateLoading": true,
   "borderRadius": "0px",
   "bottomRow": 6,
@@ -30,7 +30,7 @@
   "parentRowSpace": 10,
   "renderMode": "CANVAS",
   "rightColumn": 52,
-  "text": "Orçamentos Enviados",
+  "text": "OrÃ§amentos Enviados",
   "textAlign": "LEFT",
   "textColor": "#231F20",
   "topRow": 2,

@@ -1,4 +1,4 @@
-{
+﻿{
   "animateLoading": true,
   "borderRadius": "4px",
   "boxShadow": "none",
@@ -20,7 +20,7 @@
   "isVisible": true,
   "labelPosition": "Left",
   "labelStyle": "",
-  "labelText": "Data de Solicitação",
+  "labelText": "Data de SolicitaÃ§Ã£o",
   "labelTextSize": "0.875rem",
   "labelWidth": "8",
   "leftColumn": 0,
@@ -38,4 +38,4 @@
   "version": 2,
   "widgetId": "dt_solicitacao_picker",
   "widgetName": "dtSolicitacaoPicker"
-} 
+}

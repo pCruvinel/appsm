@@ -1,4 +1,4 @@
-{
+﻿{
   "animateLoading": true,
   "backgroundColor": "#FFFFFF",
   "borderColor": "#3366FF",
@@ -64,4 +64,4 @@
   "version": 1,
   "widgetId": "form_container",
   "widgetName": "formularioOrcamento"
-} 
+}

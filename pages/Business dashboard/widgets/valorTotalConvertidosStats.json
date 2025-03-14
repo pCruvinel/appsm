@@ -1,4 +1,4 @@
-{
+﻿{
   "animateLoading": true,
   "backgroundColor": "#FFFFFF",
   "borderColor": "#E0DEDE",
@@ -30,4 +30,4 @@
   "version": 1,
   "widgetId": "valor_convertidos_stats",
   "widgetName": "valorTotalConvertidosStats"
-} 
+}

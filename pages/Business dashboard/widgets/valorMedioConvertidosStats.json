@@ -1,4 +1,4 @@
-{
+﻿{
   "animateLoading": true,
   "backgroundColor": "#FFFFFF",
   "borderColor": "#E0DEDE",
@@ -23,11 +23,11 @@
   "rightColumn": 64,
   "textAlign": "LEFT",
   "textColor": "#231F20",
-  "title": "Valor Médio Convertidos",
+  "title": "Valor MÃ©dio Convertidos",
   "topRow": 46,
   "type": "STATBOX_WIDGET",
   "value": "R$ {{Number(valorMedioConvertidos.data[0].valor_medio_convertidos).toFixed(2)}}",
   "version": 1,
   "widgetId": "valor_medio_convertidos_stats",
   "widgetName": "valorMedioConvertidosStats"
-} 
+}

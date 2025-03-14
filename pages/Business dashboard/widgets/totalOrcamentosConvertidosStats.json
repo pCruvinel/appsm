@@ -1,4 +1,4 @@
-{
+﻿{
   "animateLoading": true,
   "backgroundColor": "#FFFFFF",
   "borderColor": "#E0DEDE",
@@ -23,11 +23,11 @@
   "rightColumn": 32,
   "textAlign": "LEFT",
   "textColor": "#231F20",
-  "title": "Orçamentos Convertidos",
+  "title": "OrÃ§amentos Convertidos",
   "topRow": 16,
   "type": "STATBOX_WIDGET",
   "value": "{{totalOrcamentosConvertidos.data[0].total_convertidos}}",
   "version": 1,
   "widgetId": "total_convertidos_stats",
   "widgetName": "totalOrcamentosConvertidosStats"
-} 
+}

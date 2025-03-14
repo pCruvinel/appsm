@@ -1,4 +1,4 @@
-{
+﻿{
   "pluginType": "DB",
   "pluginId": "postgres-plugin",
   "unpublishedAction": {
@@ -45,4 +45,4 @@
   "id": "Lista de Orcamentos_listarProcedimentos",
   "deleted": false,
   "gitSyncId": "orcamentos-cirurgicos-listar-procedimentos"
-} 
+}

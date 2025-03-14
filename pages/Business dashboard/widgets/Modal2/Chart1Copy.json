@@ -1,4 +1,4 @@
-{
+﻿{
   "accentColor": "{{appsmith.theme.colors.primaryColor}}",
   "allowScroll": false,
   "animateLoading": true,
@@ -169,5 +169,5 @@
   "widgetId": "gqdddtz8o2",
   "widgetName": "Chart1Copy",
   "xAxisName": "",
-  "yAxisName": "Revenue(₹)"
+  "yAxisName": "Revenue(â‚¹)"
 }

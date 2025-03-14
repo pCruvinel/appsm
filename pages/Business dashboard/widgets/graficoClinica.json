@@ -1,21 +1,21 @@
-{
+﻿{
   "animateLoading": true,
   "borderRadius": "0px",
   "boxShadow": "none",
   "chartData": {
-    "xAxisName": "Clínica",
+    "xAxisName": "ClÃ­nica",
     "yAxisName": "Total",
-    "chartName": "Distribuição por Clínica",
+    "chartName": "DistribuiÃ§Ã£o por ClÃ­nica",
     "data": "{{distribuicaoPorClinica.data.map((item) => ({ x: item.clinica, y: item.total }))}}"
   },
-  "chartName": "Distribuição por Clínica",
+  "chartName": "DistribuiÃ§Ã£o por ClÃ­nica",
   "chartType": "COLUMN_CHART",
   "customFusionChartConfig": {
     "type": "column2d",
     "dataSource": {
       "chart": {
-        "caption": "Distribuição por Clínica",
-        "xAxisName": "Clínica",
+        "caption": "DistribuiÃ§Ã£o por ClÃ­nica",
+        "xAxisName": "ClÃ­nica",
         "yAxisName": "Total",
         "theme": "fusion"
       }
@@ -42,4 +42,3 @@
   "widgetId": "grafico_clinica",
   "widgetName": "graficoClinica"
 }
- 

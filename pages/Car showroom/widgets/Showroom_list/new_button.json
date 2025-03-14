@@ -1,4 +1,4 @@
-{
+﻿{
   "animateLoading": true,
   "borderRadius": "4px",
   "boxShadow": "none",
@@ -10,7 +10,7 @@
   "iconAlign": "left",
   "isDisabled": false,
   "isVisible": true,
-  "labelText": "Novo Orçamento",
+  "labelText": "Novo OrÃ§amento",
   "labelTextSize": "0.875rem",
   "leftColumn": 20,
   "onClick": "{{navigateTo('Novo Orcamento', {}, 'SAME_WINDOW')}}",
@@ -18,7 +18,7 @@
   "parentRowSpace": 10,
   "renderMode": "CANVAS",
   "rightColumn": 36,
-  "text": "Novo Orçamento",
+  "text": "Novo OrÃ§amento",
   "topRow": 0,
   "type": "BUTTON_WIDGET",
   "version": 1,

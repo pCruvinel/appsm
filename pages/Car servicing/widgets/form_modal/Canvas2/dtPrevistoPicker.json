@@ -1,4 +1,4 @@
-{
+﻿{
   "animateLoading": true,
   "borderRadius": "4px",
   "boxShadow": "none",
@@ -38,4 +38,4 @@
   "version": 2,
   "widgetId": "dt_previsto_picker",
   "widgetName": "dtPrevistoPicker"
-} 
+}

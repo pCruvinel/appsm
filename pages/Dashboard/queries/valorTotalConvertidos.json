@@ -1,4 +1,4 @@
-{
+﻿{
   "pluginType": "DB",
   "pluginId": "postgres-plugin",
   "unpublishedAction": {
@@ -39,4 +39,4 @@
   "id": "Dashboard_valorTotalConvertidos",
   "deleted": false,
   "gitSyncId": "orcamentos-cirurgicos-valor-total-convertidos"
-} 
+}

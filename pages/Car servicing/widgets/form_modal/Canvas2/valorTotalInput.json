@@ -1,4 +1,4 @@
-{
+﻿{
   "animateLoading": true,
   "borderRadius": "4px",
   "boxShadow": "none",
@@ -27,4 +27,4 @@
   "version": 1,
   "widgetId": "valor_total_input",
   "widgetName": "valorTotalInput"
-} 
+}
