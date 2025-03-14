@@ -1,0 +1,33 @@
+{
+  "animateLoading": true,
+  "backgroundColor": "#FFFFFF",
+  "borderColor": "#E0DEDE",
+  "borderRadius": "4px",
+  "boxShadow": "none",
+  "displayName": "Stats Box",
+  "dynamicBindingPathList": [
+    {
+      "key": "value"
+    }
+  ],
+  "dynamicPropertyPathList": [],
+  "iconAlign": "left",
+  "iconName": "trending-up",
+  "isLoading": false,
+  "isVisible": true,
+  "labelTextSize": "0.875rem",
+  "leftColumn": 32,
+  "parentId": "0",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "rightColumn": 64,
+  "textAlign": "LEFT",
+  "textColor": "#231F20",
+  "title": "Valor Médio Convertidos",
+  "topRow": 46,
+  "type": "STATBOX_WIDGET",
+  "value": "R$ {{Number(valorMedioConvertidos.data[0].valor_medio_convertidos).toFixed(2)}}",
+  "version": 1,
+  "widgetId": "valor_medio_convertidos_stats",
+  "widgetName": "valorMedioConvertidosStats"
+} 

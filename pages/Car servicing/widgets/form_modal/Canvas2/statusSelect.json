@@ -1,0 +1,40 @@
+{
+  "animateLoading": true,
+  "borderRadius": "4px",
+  "boxShadow": "none",
+  "displayName": "Select",
+  "dynamicBindingPathList": [],
+  "dynamicPropertyPathList": [],
+  "iconAlign": "left",
+  "isDisabled": false,
+  "isFilterable": false,
+  "isRequired": true,
+  "isVisible": true,
+  "labelPosition": "Left",
+  "labelStyle": "",
+  "labelText": "Status",
+  "labelTextSize": "0.875rem",
+  "labelWidth": "8",
+  "leftColumn": 0,
+  "options": [
+    {
+      "label": "Enviado",
+      "value": "Enviado"
+    },
+    {
+      "label": "Convertido",
+      "value": "Convertido"
+    }
+  ],
+  "parentId": "form_canvas",
+  "parentRowSpace": 10,
+  "placeholderText": "Selecione o status",
+  "renderMode": "CANVAS",
+  "rightColumn": 64,
+  "serverSideFiltering": false,
+  "topRow": 15,
+  "type": "SELECT_WIDGET",
+  "version": 1,
+  "widgetId": "status_select",
+  "widgetName": "statusSelect"
+} 

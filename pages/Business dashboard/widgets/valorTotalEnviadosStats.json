@@ -1,0 +1,33 @@
+{
+  "animateLoading": true,
+  "backgroundColor": "#FFFFFF",
+  "borderColor": "#E0DEDE",
+  "borderRadius": "4px",
+  "boxShadow": "none",
+  "displayName": "Stats Box",
+  "dynamicBindingPathList": [
+    {
+      "key": "value"
+    }
+  ],
+  "dynamicPropertyPathList": [],
+  "iconAlign": "left",
+  "iconName": "dollar-sign",
+  "isLoading": false,
+  "isVisible": true,
+  "labelTextSize": "0.875rem",
+  "leftColumn": 32,
+  "parentId": "0",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "rightColumn": 48,
+  "textAlign": "LEFT",
+  "textColor": "#231F20",
+  "title": "Valor Total Enviados",
+  "topRow": 16,
+  "type": "STATBOX_WIDGET",
+  "value": "R$ {{Number(valorTotalEnviados.data[0].valor_total_enviados).toFixed(2)}}",
+  "version": 1,
+  "widgetId": "valor_enviados_stats",
+  "widgetName": "valorTotalEnviadosStats"
+} 

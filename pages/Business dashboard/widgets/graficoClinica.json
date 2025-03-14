@@ -1,0 +1,45 @@
+{
+  "animateLoading": true,
+  "borderRadius": "0px",
+  "boxShadow": "none",
+  "chartData": {
+    "xAxisName": "Clínica",
+    "yAxisName": "Total",
+    "chartName": "Distribuição por Clínica",
+    "data": "{{distribuicaoPorClinica.data.map((item) => ({ x: item.clinica, y: item.total }))}}"
+  },
+  "chartName": "Distribuição por Clínica",
+  "chartType": "COLUMN_CHART",
+  "customFusionChartConfig": {
+    "type": "column2d",
+    "dataSource": {
+      "chart": {
+        "caption": "Distribuição por Clínica",
+        "xAxisName": "Clínica",
+        "yAxisName": "Total",
+        "theme": "fusion"
+      }
+    }
+  },
+  "displayName": "Chart",
+  "dynamicBindingPathList": [
+    {
+      "key": "chartData.data"
+    }
+  ],
+  "dynamicPropertyPathList": [],
+  "isLoading": false,
+  "isVisible": true,
+  "labelTextSize": "0.875rem",
+  "leftColumn": 0,
+  "parentId": "0",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "rightColumn": 32,
+  "topRow": 26,
+  "type": "CHART_WIDGET",
+  "version": 1,
+  "widgetId": "grafico_clinica",
+  "widgetName": "graficoClinica"
+}
+ 

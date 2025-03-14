@@ -1,0 +1,33 @@
+{
+  "animateLoading": true,
+  "backgroundColor": "#FFFFFF",
+  "borderColor": "#E0DEDE",
+  "borderRadius": "4px",
+  "boxShadow": "none",
+  "displayName": "Stats Box",
+  "dynamicBindingPathList": [
+    {
+      "key": "value"
+    }
+  ],
+  "dynamicPropertyPathList": [],
+  "iconAlign": "left",
+  "iconName": "file-text",
+  "isLoading": false,
+  "isVisible": true,
+  "labelTextSize": "0.875rem",
+  "leftColumn": 0,
+  "parentId": "0",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "rightColumn": 16,
+  "textAlign": "LEFT",
+  "textColor": "#231F20",
+  "title": "Orçamentos Enviados",
+  "topRow": 16,
+  "type": "STATBOX_WIDGET",
+  "value": "{{totalOrcamentosEnviados.data[0].total_enviados}}",
+  "version": 1,
+  "widgetId": "total_enviados_stats",
+  "widgetName": "totalOrcamentosEnviadosStats"
+} 

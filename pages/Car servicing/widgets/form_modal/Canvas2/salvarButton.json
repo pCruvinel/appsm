@@ -10,18 +10,18 @@
   "iconAlign": "left",
   "isDisabled": false,
   "isVisible": true,
-  "labelText": "Novo Orçamento",
+  "labelText": "Salvar",
   "labelTextSize": "0.875rem",
-  "leftColumn": 20,
-  "onClick": "{{navigateTo('Novo Orcamento', {}, 'SAME_WINDOW')}}",
-  "parentId": "tiuvc0ci5w",
+  "leftColumn": 24,
+  "onClick": "{{inserirOrcamento.run(() => navigateTo('Lista de Orcamentos', {}, 'SAME_WINDOW'), () => {})}}",
+  "parentId": "form_canvas",
   "parentRowSpace": 10,
   "renderMode": "CANVAS",
-  "rightColumn": 36,
-  "text": "Novo Orçamento",
-  "topRow": 0,
+  "rightColumn": 40,
+  "text": "Salvar",
+  "topRow": 55,
   "type": "BUTTON_WIDGET",
   "version": 1,
-  "widgetId": "novo_orcamento_button",
-  "widgetName": "novoOrcamentoButton"
-}
+  "widgetId": "salvar_button",
+  "widgetName": "salvarButton"
+} 

@@ -23,5 +23,46 @@
   ],
   "unpublishedAppLayout": {
     "type": "DESKTOP"
+  },
+  "gitSyncId": "61b6d49e33c6ae6163af2716_64185bb7c295a45495552480",
+  "unpublishedApplicationDetail": {
+    "appPositioning": {
+      "type": "FIXED"
+    },
+    "appLayout": {
+      "type": "DESKTOP"
+    },
+    "navigationSetting": {
+      "showNavbar": true,
+      "orientation": "top",
+      "navStyle": "stacked",
+      "position": "static",
+      "itemStyle": "text",
+      "colorStyle": "theme",
+      "logoAssetId": "",
+      "logoConfiguration": {
+        "logoAssetId": "",
+        "logoHeight": 40,
+        "logoWidth": 40
+      }
+    },
+    "themeSetting": {
+      "color": "#3366FF",
+      "accentColor": "#3366FF"
+    },
+    "pages": [
+      {
+        "id": "Lista de Orcamentos",
+        "isDefault": true
+      },
+      {
+        "id": "Novo Orcamento",
+        "isDefault": false
+      },
+      {
+        "id": "Dashboard",
+        "isDefault": false
+      }
+    ]
   }
 }

@@ -1,0 +1,44 @@
+{
+  "animateLoading": true,
+  "borderRadius": "0px",
+  "boxShadow": "none",
+  "chartData": {
+    "xAxisName": "Especialidade",
+    "yAxisName": "Total",
+    "chartName": "Distribuição por Especialidade",
+    "data": "{{distribuicaoPorEspecialidade.data.map((item) => ({ x: item.especialidade, y: item.total }))}}"
+  },
+  "chartName": "Distribuição por Especialidade",
+  "chartType": "PIE_CHART",
+  "customFusionChartConfig": {
+    "type": "pie2d",
+    "dataSource": {
+      "chart": {
+        "caption": "Distribuição por Especialidade",
+        "theme": "fusion",
+        "showPercentValues": "1",
+        "showValues": "1"
+      }
+    }
+  },
+  "displayName": "Chart",
+  "dynamicBindingPathList": [
+    {
+      "key": "chartData.data"
+    }
+  ],
+  "dynamicPropertyPathList": [],
+  "isLoading": false,
+  "isVisible": true,
+  "labelTextSize": "0.875rem",
+  "leftColumn": 0,
+  "parentId": "0",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "rightColumn": 32,
+  "topRow": 46,
+  "type": "CHART_WIDGET",
+  "version": 1,
+  "widgetId": "grafico_especialidade",
+  "widgetName": "graficoEspecialidade"
+} 

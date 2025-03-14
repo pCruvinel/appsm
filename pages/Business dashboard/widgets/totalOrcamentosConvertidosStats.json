@@ -1,0 +1,33 @@
+{
+  "animateLoading": true,
+  "backgroundColor": "#FFFFFF",
+  "borderColor": "#E0DEDE",
+  "borderRadius": "4px",
+  "boxShadow": "none",
+  "displayName": "Stats Box",
+  "dynamicBindingPathList": [
+    {
+      "key": "value"
+    }
+  ],
+  "dynamicPropertyPathList": [],
+  "iconAlign": "left",
+  "iconName": "check-square",
+  "isLoading": false,
+  "isVisible": true,
+  "labelTextSize": "0.875rem",
+  "leftColumn": 16,
+  "parentId": "0",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "rightColumn": 32,
+  "textAlign": "LEFT",
+  "textColor": "#231F20",
+  "title": "Orçamentos Convertidos",
+  "topRow": 16,
+  "type": "STATBOX_WIDGET",
+  "value": "{{totalOrcamentosConvertidos.data[0].total_convertidos}}",
+  "version": 1,
+  "widgetId": "total_convertidos_stats",
+  "widgetName": "totalOrcamentosConvertidosStats"
+} 

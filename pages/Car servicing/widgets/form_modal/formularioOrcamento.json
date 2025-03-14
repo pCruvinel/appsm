@@ -4,7 +4,6 @@
   "borderColor": "#3366FF",
   "borderRadius": "15px",
   "borderWidth": "",
-  "bottomRow": 90,
   "boxShadow": "none",
   "children": [
     {
@@ -24,14 +23,14 @@
       "leftColumn": 0,
       "minHeight": 400,
       "parentColumnSpace": 1,
-      "parentId": "qyyb7wpq4p",
+      "parentId": "form_container",
       "parentRowSpace": 1,
       "renderMode": "CANVAS",
       "rightColumn": 433.5,
       "topRow": 0,
       "type": "CANVAS_WIDGET",
       "version": 1,
-      "widgetId": "tiuvc0ci5w",
+      "widgetId": "form_canvas",
       "widgetName": "Canvas2"
     }
   ],
@@ -59,10 +58,10 @@
   "parentId": "0",
   "parentRowSpace": 10,
   "renderMode": "CANVAS",
-  "rightColumn": 29,
+  "rightColumn": 57,
   "topRow": 16,
   "type": "CONTAINER_WIDGET",
   "version": 1,
-  "widgetId": "qyyb7wpq4p",
-  "widgetName": "Lista_Orcamentos"
-}
+  "widgetId": "form_container",
+  "widgetName": "formularioOrcamento"
+} 
