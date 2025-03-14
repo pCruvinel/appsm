@@ -4,20 +4,20 @@
     "type": "DESKTOP"
   },
   "applicationVersion": 2,
-  "color": "#FBF4ED",
+  "color": "#3366FF",
   "evaluationVersion": 2,
-  "icon": "bitcoin",
+  "icon": "medical-services",
   "pages": [
     {
-      "id": "Car showroom",
+      "id": "Lista de Orcamentos",
       "isDefault": true
     },
     {
-      "id": "Car servicing",
+      "id": "Novo Orcamento",
       "isDefault": false
     },
     {
-      "id": "Business dashboard",
+      "id": "Dashboard",
       "isDefault": false
     }
   ],
